@@ -120,7 +120,7 @@ Application web de **recommandation de cultures** à partir de données de sol e
 
 ## 🎓 Parcours
 
-| | |
+| Période | Étape |
 |---|---|
 | **2024 à 2027** | **EMSI, Rabat** : cycle ingénieur, Cybersécurité et Infrastructures Réseaux |
 | **2026** | **Stage GRC, administration publique** : maturité NIST CSF 2.0 sur 106 sous-catégories, correspondance ISO 27001, indicateurs de pilotage, feuille de route |
