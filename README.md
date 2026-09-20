@@ -33,6 +33,8 @@ Je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** e
   <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/fil-rouge.svg" alt="Fil rouge : gouvernance, risques, contrôles, preuves, amélioration continue, avec les projets associés à chaque étape" width="100%">
 </div>
 
+<br>
+
 <table>
 <tr>
 <td width="50%" valign="top">
