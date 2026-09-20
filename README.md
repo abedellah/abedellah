@@ -29,13 +29,9 @@ isms-iso27001-orange-study/   Clavigil/   SentinelAI/   Micro_SecureAi-/   Filah
 
 Je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** et s'**automatise**.
 
-```mermaid
-flowchart LR
-    A["Gouvernance<br/>ISO 27001 · NIST CSF"] --> B["Risques<br/>scénarios · EBIOS RM"]
-    B --> C["Contrôles<br/>IAM · DevSecOps · réseau"]
-    C --> D["Preuves<br/>tests · CI · rapports"]
-    D --> A
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/fil-rouge.svg" alt="Fil rouge : gouvernance, risques, contrôles, preuves, amélioration continue, avec les projets associés à chaque étape" width="100%">
+</div>
 
 <table>
 <tr>
@@ -76,12 +72,16 @@ flowchart LR
 <tr>
 <td width="50%" valign="top">
 
+<img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-isms.svg" width="52" alt="">
+
 ### [isms-iso27001-orange-study](https://github.com/abedellah/isms-iso27001-orange-study)
 `GRC` `ISO 27001` `EBIOS RM`<br>
 Conception d'un **SMSI ISO/IEC 27001:2022** pour les plateformes clients entreprises d'Orange, à partir de **sources publiques** : analyse de risques, déclaration d'applicabilité des 93 contrôles, feuille de route.
 
 </td>
 <td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-clavigil.svg" width="52" alt="">
 
 ### [Clavigil](https://github.com/abedellah/Clavigil)
 `IAM` `Python` `Keycloak` `OpenLDAP`<br>
@@ -92,12 +92,16 @@ Conception d'un **SMSI ISO/IEC 27001:2022** pour les plateformes clients entrepr
 <tr>
 <td valign="top">
 
+<img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-sentinel.svg" width="52" alt="">
+
 ### [SentinelAI](https://github.com/abedellah/SentinelAI)
 `Détection` `scikit-learn` `Flask`<br>
 **Détection d'intrusions** (RandomForest sur CICIDS2017) avec tableau de bord SOC et architecture SQL + MongoDB + Redis.
 
 </td>
 <td valign="top">
+
+<img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-microshield.svg" width="52" alt="">
 
 ### [SecureAI MicroShield](https://github.com/abedellah/Micro_SecureAi-)
 `DevSecOps` `Kubernetes`<br>
@@ -107,6 +111,8 @@ Conception d'un **SMSI ISO/IEC 27001:2022** pour les plateformes clients entrepr
 </tr>
 <tr>
 <td colspan="2" valign="top">
+
+<img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-filahia.svg" width="52" alt="">
 
 ### [Filahia](https://github.com/abedellah/Filahia)
 `Django` `scikit-learn` `OCR`<br>
