@@ -1,57 +1,147 @@
-<h1 align="center">Mohamed Abdellah Lagrini</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/banner.svg" alt="Mohamed Abdellah Lagrini, cybersécurité, GRC, IAM, DevSecOps" width="100%">
+</div>
 
 <p align="center">
-  <b>Élève ingénieur en Cybersécurité &amp; Infrastructures Réseaux</b> · EMSI, Rabat<br>
-  À la recherche d'un <b>stage PFE en GRC / Audit IT / Cyber Risk</b> à partir de <b>février 2027</b><br>
-  <a href="https://linkedin.com/in/mohamed-abdellah-lagrini">LinkedIn</a>
+  <a href="mailto:mohamedabdellahlagrini@gmail.com"><b>📧 mohamedabdellahlagrini@gmail.com</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/mohamed-abdellah-lagrini"><b>💼 LinkedIn</b></a>
+  &nbsp;·&nbsp;
+  📍 Rabat, Maroc
 </p>
 
-<p align="center"><i>English: final-year cybersecurity engineering student in Rabat, Morocco, looking for a 2027 end-of-studies internship in GRC, IT audit or cyber risk.</i></p>
+```text
+$ whoami
+mohamed-abdellah-lagrini        # élève ingénieur, cybersécurité & infrastructures réseaux
+
+$ cat objectif.txt
+stage PFE · GRC / Audit IT / Cyber Risk · à partir de février 2027 · Maroc ou France
+
+$ ls projets/
+isms-iso27001-orange-study/   Clavigil/   SentinelAI/   Micro_SecureAi-/   Filahia/
+```
+
+<sub>*English: final-year cybersecurity engineering student in Rabat, looking for a 2027 end-of-studies internship in GRC, IT audit or cyber risk.*</sub>
 
 ---
 
-## À propos
+## 🧭 Mon fil rouge
 
-Je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** et s'**automatise**. Mon parcours
-relie deux mondes : la gouvernance, le risque et la conformité (évaluation de maturité NIST CSF 2.0,
-ISO/IEC 27001) et la technique (identités et accès, détection, infrastructures et pipelines de sécurité).
+Je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** et s'**automatise**.
 
-## Ce que je travaille
+```mermaid
+flowchart LR
+    A["🏛️ Gouvernance<br/>ISO 27001 · NIST CSF"] --> B["⚠️ Risques<br/>scénarios · EBIOS RM"]
+    B --> C["🛡️ Contrôles<br/>IAM · DevSecOps · réseau"]
+    C --> D["✅ Preuves<br/>tests · CI · rapports"]
+    D --> A
+```
 
-| Domaine | Ce que j'y fais |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏛️ Gouvernance, risque, conformité**<br>
+`NIST CSF 2.0` `ISO/IEC 27001` `EBIOS RM` `SoA` `analyse d'écarts` `indicateurs`
+
+</td>
+<td width="50%" valign="top">
+
+**🔐 Identités et accès (IAM)**<br>
+`JML` `SoD` `recertification` `OIDC` `JWT` `Keycloak` `OpenLDAP`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**📡 Détection**<br>
+`IDS` `RandomForest` `CICIDS2017` `tableau de bord SOC` `Isolation Forest`
+
+</td>
+<td valign="top">
+
+**⚙️ Infrastructures et DevSecOps**<br>
+`Kubernetes` `Docker` `GitHub Actions` `Trivy` `Checkov` `FortiGate` `Active Directory`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Projets à la une
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📑 [isms-iso27001-orange-study](https://github.com/abedellah/isms-iso27001-orange-study)
+`GRC` `ISO 27001` `EBIOS RM`<br>
+Conception d'un **SMSI ISO/IEC 27001:2022** pour les plateformes clients entreprises d'Orange, à partir de **sources publiques** : analyse de risques, déclaration d'applicabilité des 93 contrôles, feuille de route.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔑 [Clavigil](https://github.com/abedellah/Clavigil)
+`IAM` `Python` `Keycloak` `OpenLDAP`<br>
+**Gouvernance du cycle de vie des identités** : RH vers annuaire et IdP, six contrôles de réconciliation, séparation des tâches, recertification, CI complète.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### 🛰️ [SentinelAI](https://github.com/abedellah/SentinelAI)
+`Détection` `scikit-learn` `Flask`<br>
+**Détection d'intrusions** (RandomForest sur CICIDS2017) avec tableau de bord SOC et architecture SQL + MongoDB + Redis.
+
+</td>
+<td valign="top">
+
+### ☸️ [SecureAI MicroShield](https://github.com/abedellah/Micro_SecureAi-)
+`DevSecOps` `Kubernetes`<br>
+**Microservices sécurisés** : identité Zero-Trust, détection d'anomalies, observabilité, pipeline à quatre contrôles de sécurité. Projet d'équipe ; ma part : déploiement, supervision, pipeline.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🌾 [Filahia](https://github.com/abedellah/Filahia)
+`Django` `scikit-learn` `OCR`<br>
+Application web de **recommandation de cultures** à partir de données de sol et de climat, avec saisie par OCR, en français et en arabe.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Parcours
+
+| | |
 |---|---|
-| **Gouvernance, risque et conformité** | Évaluation de maturité NIST CSF 2.0, conception d'un SMSI ISO/IEC 27001, analyse de risques (notions EBIOS RM), déclaration d'applicabilité |
-| **Identités et accès (IAM)** | Cycle de vie arrivée / mobilité / départ, séparation des tâches, recertification, OIDC et jetons JWT |
-| **Détection** | Détection d'intrusions par apprentissage automatique, tableau de bord SOC |
-| **Infrastructures et DevSecOps** | Kubernetes, durcissement des conteneurs, pipelines d'analyse de sécurité, FortiGate, Active Directory |
+| **2024 à 2027** | **EMSI, Rabat** : cycle ingénieur, Cybersécurité et Infrastructures Réseaux |
+| **2026** | **Stage GRC, administration publique** : maturité NIST CSF 2.0 sur 106 sous-catégories, correspondance ISO 27001, indicateurs de pilotage, feuille de route |
+| **2025** | **Stage sécurité des infrastructures réseau** : segmentation VLAN, FortiGate, Active Directory, politiques d'accès fondées sur l'identité (FSSO) |
+| **2022 à 2024** | Classes préparatoires MP |
 
-## Projets à la une
+## 🏅 Certifications
 
-| Projet | Domaine | En bref |
-|---|---|---|
-| [**isms-iso27001-orange-study**](https://github.com/abedellah/isms-iso27001-orange-study) | GRC | Conception d'un SMSI ISO/IEC 27001:2022 pour les plateformes clients entreprises d'Orange, à partir de **sources publiques** : analyse de risques, déclaration d'applicabilité des 93 contrôles, feuille de route |
-| [**Clavigil**](https://github.com/abedellah/Clavigil) | IAM | Gouvernance du cycle de vie des identités : RH vers OpenLDAP et Keycloak, six contrôles de réconciliation, recertification, CI complète |
-| [**SentinelAI**](https://github.com/abedellah/SentinelAI) | Détection | Système de détection d'intrusions (RandomForest sur CICIDS2017) avec tableau de bord SOC, architecture SQL + MongoDB + Redis |
-| [**SecureAI MicroShield**](https://github.com/abedellah/Micro_SecureAi-) | DevSecOps | Plateforme de microservices sur Kubernetes : identité Zero-Trust, détection d'anomalies, observabilité, pipeline à quatre contrôles de sécurité. Projet d'équipe ; ma part : déploiement, supervision et pipeline |
-| [**Filahia**](https://github.com/abedellah/Filahia) | Web / ML | Application Django de recommandation de cultures, avec saisie par OCR, en français et en arabe |
+- ✅ **ISO/IEC 27001:2022 Information Security Associate** (SkillFront, 2026)
+- ✅ **Google Cybersecurity Professional Certificate** (Coursera, 2026)
+- 🔄 **Microsoft SC-900**, Security, Compliance and Identity Fundamentals (en préparation)
 
-## Parcours
+## 🛠️ Outils
 
-- **EMSI, Rabat** : cycle ingénieur, Cybersécurité et Infrastructures Réseaux (2024 à 2027)
-- **Stage GRC, administration publique (2026)** : évaluation de maturité d'un processus de gestion des vulnérabilités sur les 106 sous-catégories du NIST CSF 2.0, correspondance avec l'Annexe A de l'ISO 27001, indicateurs de pilotage et feuille de route
-- **Stage sécurité des infrastructures réseau (2025)** : segmentation VLAN, pare-feu FortiGate, Active Directory, politiques d'accès fondées sur l'identité (FSSO)
-- **Classes préparatoires MP** (2022 à 2024)
+`Python` `SQL` `Bash` `PowerShell` `Docker` `Git` `GitHub Actions` `Linux` `Windows Server` `GNS3`
 
-## Certifications
+**🌍 Langues** : arabe (langue maternelle) · français (maîtrise professionnelle) · anglais (courant)
 
-- ISO/IEC 27001:2022 Information Security Associate (SkillFront, 2026)
-- Google Cybersecurity Professional Certificate (Coursera, 2026)
-- Microsoft SC-900, Security, Compliance and Identity Fundamentals (en préparation)
+---
 
-## Compétences
-
-**GRC** : NIST CSF 2.0 · ISO/IEC 27001 · EBIOS RM (notions) · analyse d'écarts · indicateurs de pilotage · CISO Assistant  
-**Sécurité et infrastructures** : Active Directory · FortiGate · VLAN 802.1Q · Kubernetes · Keycloak (OIDC) · Linux · Windows Server  
-**Développement et outils** : Python · SQL · Bash · PowerShell · Docker · Git · GitHub Actions
-
-**Langues** : arabe (langue maternelle) · français (maîtrise professionnelle) · anglais (courant)
+<p align="center">
+  <b>Un échange, un stage, une question sur un projet ?</b><br>
+  <a href="mailto:mohamedabdellahlagrini@gmail.com">Écrivez-moi</a> ou retrouvez-moi sur <a href="https://linkedin.com/in/mohamed-abdellah-lagrini">LinkedIn</a>.
+</p>
