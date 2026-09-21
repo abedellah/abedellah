@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Étude ISMS">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#08172E"/><stop offset="1" stop-color="#16407A"/></linearGradient>
-    <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="64" y2="64"><stop offset="0" stop-color="#2DD4BF"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14171C"/><stop offset="1" stop-color="#272C34"/></linearGradient>
+    <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="64" y2="64"><stop offset="0" stop-color="#B5C6DE"/><stop offset="1" stop-color="#8CA0BF"/></linearGradient>
   </defs>
   <rect width="64" height="64" rx="14" fill="url(#bg)"/>
   <rect x="19" y="13" width="26" height="36" rx="4" fill="none" stroke="url(#a)" stroke-width="3.5"/>
-  <g stroke="#7FA6D9" stroke-width="3" stroke-linecap="round"><line x1="25" y1="24" x2="39" y2="24"/><line x1="25" y1="31" x2="39" y2="31"/><line x1="25" y1="38" x2="33" y2="38"/></g>
-  <circle cx="44" cy="46" r="9" fill="#2DD4BF"/>
-  <path d="M39.5 46 L43 49.5 L48.5 42.5" fill="none" stroke="#08172E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <g stroke="#8B93A1" stroke-width="3" stroke-linecap="round"><line x1="25" y1="24" x2="39" y2="24"/><line x1="25" y1="31" x2="39" y2="31"/><line x1="25" y1="38" x2="33" y2="38"/></g>
+  <circle cx="44" cy="46" r="9" fill="#B5C6DE"/>
+  <path d="M39.5 46 L43 49.5 L48.5 42.5" fill="none" stroke="#14171C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
