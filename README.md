@@ -30,7 +30,7 @@ isms-iso27001-orange-study/   Clavigil/   SentinelAI/   Micro_SecureAi-/   Filah
 Je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** et s'**automatise**.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/fil-rouge.svg?v=5" alt="Cycle de vie de la sécurité : gouvernance, risques, contrôles, preuves, amélioration continue, avec les projets associés à chaque étape" width="100%">
+  <img src="https://raw.githubusercontent.com/abedellah/abedellah/2f35ee6a58f08dfbf54eb3286481a140fb2cf258/assets/fil-rouge.svg" alt="Cycle de vie de la sécurité : gouvernance, risques, contrôles, preuves, amélioration continue, avec les projets associés à chaque étape" width="100%">
 </div>
 
 <br>
