@@ -18,7 +18,7 @@ $ cat objectif.txt
 stage PFE · GRC / Audit IT / Cyber Risk · à partir de février 2027 · Maroc ou France
 
 $ ls projets/
-isms-iso27001-orange-study/   Clavigil/   SentinelAI/   Micro_SecureAi-/   Filahia/
+smsi-iso27001-ebios-rm/   Clavigil/   SentinelAI/   Micro_SecureAi-/   Filahia/
 ```
 
 <sub>*English: final-year cybersecurity engineering student in Rabat, looking for a 2027 end-of-studies internship in GRC, IT audit or cyber risk.*</sub>
@@ -76,9 +76,9 @@ Je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** e
 
 <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-isms.svg?v=5" width="52" alt="">
 
-### [isms-iso27001-orange-study](https://github.com/abedellah/isms-iso27001-orange-study)
+### [smsi-iso27001-ebios-rm](https://github.com/abedellah/smsi-iso27001-ebios-rm)
 `GRC` `ISO 27001` `EBIOS RM`<br>
-Conception d'un **SMSI ISO/IEC 27001:2022** pour les plateformes clients entreprises d'Orange, à partir de **sources publiques** : analyse de risques, déclaration d'applicabilité des 93 contrôles, feuille de route.
+**SMSI ISO/IEC 27001:2022 bâti sur le cas de référence de l'ANSSI** (biotechnologie fictive) : les cinq ateliers EBIOS RM complétés, déclaration d'applicabilité des 93 mesures, audit interne, six constats sur le cas de référence, cohérence vérifiée par script et CI.
 
 </td>
 <td width="50%" valign="top">
