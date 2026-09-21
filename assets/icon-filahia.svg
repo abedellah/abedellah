@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Filahia">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101A2A"/><stop offset="1" stop-color="#1F3350"/></linearGradient>
-    <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="64" y2="64"><stop offset="0" stop-color="#78AFAA"/><stop offset="1" stop-color="#8FA8C8"/></linearGradient>
-  </defs>
-  <rect width="64" height="64" rx="14" fill="url(#bg)"/>
-  <g fill="none" stroke="url(#a)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M32 50 V28"/>
-    <path d="M32 38 C22 38 16 32 16 22 C26 22 32 28 32 38 Z"/>
-    <path d="M32 32 C32 22 38 16 48 16 C48 26 42 32 32 32 Z"/>
-    <path d="M21 50 H43"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="sprout"><rect width="64" height="64" rx="10" fill="#0B2545"/><rect x="1" y="1" width="62" height="62" rx="9" fill="none" stroke="#A88B4A" stroke-opacity="0.55"/><g stroke="#F6F2E9" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M32 52 V28"/><path d="M32 38 C22 38 16 32 16 22 C26 22 32 28 32 38 Z"/><path d="M32 32 C32 22 38 16 48 16 C48 26 42 32 32 32 Z"/><path d="M21 52 H43"/></g></svg>

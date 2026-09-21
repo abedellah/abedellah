@@ -1,52 +1,53 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/banner.svg" alt="Mohamed Abdellah Lagrini, cybersécurité, GRC, IAM, DevSecOps" width="100%">
+  <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/banner.svg" alt="Mohamed Abdellah Lagrini, cybersécurité, gouvernance, risque et conformité" width="100%">
 </div>
 
 <p align="center">
-  <a href="mailto:mohamedabdellahlagrini@gmail.com"><b>mohamedabdellahlagrini@gmail.com</b></a>
+  <a href="mailto:mohamedabdellahlagrini@gmail.com">mohamedabdellahlagrini@gmail.com</a>
   &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/mohamed-abdellah-lagrini"><b>LinkedIn</b></a>
+  <a href="https://linkedin.com/in/mohamed-abdellah-lagrini">LinkedIn</a>
   &nbsp;·&nbsp;
   Rabat, Maroc
 </p>
 
-```text
-$ whoami
-mohamed-abdellah-lagrini        # élève ingénieur, cybersécurité & infrastructures réseaux
+## En bref
 
-$ cat objectif.txt
-stage PFE · GRC / Audit IT / Cyber Risk · à partir de février 2027 · Maroc ou France
+<table>
+<tr><td width="180"><b>Objectif</b></td><td>Stage de fin d'études (PFE) en GRC, audit IT ou cyber risque</td></tr>
+<tr><td><b>Disponibilité</b></td><td>À partir de février 2027</td></tr>
+<tr><td><b>Localisation</b></td><td>Rabat, Maroc. Ouvert au Maroc et à la France</td></tr>
+<tr><td><b>Formation</b></td><td>Cycle ingénieur, Cybersécurité et Infrastructures Réseaux, EMSI</td></tr>
+<tr><td><b>Langues</b></td><td>Arabe (langue maternelle), français (maîtrise professionnelle), anglais (courant)</td></tr>
+</table>
 
-$ ls projets/
-isms-iso27001-orange-study/   Clavigil/   SentinelAI/   Micro_SecureAi-/   Filahia/
-```
+<sub>*English: final-year cybersecurity engineering student in Rabat, seeking a 2027 end-of-studies internship in GRC, IT audit or cyber risk.*</sub>
 
-<sub>*English: final-year cybersecurity engineering student in Rabat, looking for a 2027 end-of-studies internship in GRC, IT audit or cyber risk.*</sub>
+## Profil
 
----
+Élève ingénieur en cybersécurité, je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** et
+s'**automatise**. Mon parcours associe la gouvernance, le risque et la conformité (évaluation de maturité NIST CSF 2.0,
+ISO/IEC 27001) à des réalisations techniques : identités et accès, détection, infrastructures et chaînes de sécurité.
 
-## Mon fil rouge
-
-Je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** et s'**automatise**.
+## Démarche
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/fil-rouge.svg" alt="Fil rouge : gouvernance, risques, contrôles, preuves, amélioration continue, avec les projets associés à chaque étape" width="100%">
+  <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/fil-rouge.svg" alt="Démarche : gouvernance, risques, contrôles, preuves, amélioration continue, avec les projets associés à chaque étape" width="100%">
 </div>
 
-<br>
+## Domaines d'expertise
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**Gouvernance, risque, conformité**<br>
-`NIST CSF 2.0` `ISO/IEC 27001` `EBIOS RM` `SoA` `analyse d'écarts` `indicateurs`
+**Gouvernance, risque et conformité**<br>
+<sub>NIST CSF 2.0 · ISO/IEC 27001 · EBIOS RM · déclaration d'applicabilité · analyse d'écarts · indicateurs de pilotage</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**Identités et accès (IAM)**<br>
-`JML` `SoD` `recertification` `OIDC` `JWT` `Keycloak` `OpenLDAP`
+**Identités et accès**<br>
+<sub>Cycle de vie arrivée, mobilité, départ · séparation des tâches · recertification · OIDC et JWT · Keycloak · OpenLDAP</sub>
 
 </td>
 </tr>
@@ -54,21 +55,19 @@ Je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** e
 <td valign="top">
 
 **Détection**<br>
-`IDS` `RandomForest` `CICIDS2017` `tableau de bord SOC` `Isolation Forest`
+<sub>Détection d'intrusions · RandomForest · CICIDS2017 · tableau de bord SOC · Isolation Forest</sub>
 
 </td>
 <td valign="top">
 
 **Infrastructures et DevSecOps**<br>
-`Kubernetes` `Docker` `GitHub Actions` `Trivy` `Checkov` `FortiGate` `Active Directory`
+<sub>Kubernetes · Docker · GitHub Actions · Trivy · Checkov · FortiGate · Active Directory</sub>
 
 </td>
 </tr>
 </table>
 
----
-
-## Projets à la une
+## Réalisations
 
 <table>
 <tr>
@@ -76,8 +75,8 @@ Je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** e
 
 <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-isms.svg" width="52" alt="">
 
-### [isms-iso27001-orange-study](https://github.com/abedellah/isms-iso27001-orange-study)
-`GRC` `ISO 27001` `EBIOS RM`<br>
+### [Étude ISMS ISO 27001 pour Orange](https://github.com/abedellah/isms-iso27001-orange-study)
+<sub>GRC · ISO 27001 · EBIOS RM</sub><br>
 Conception d'un **SMSI ISO/IEC 27001:2022** pour les plateformes clients entreprises d'Orange, à partir de **sources publiques** : analyse de risques, déclaration d'applicabilité des 93 contrôles, feuille de route.
 
 </td>
@@ -86,8 +85,8 @@ Conception d'un **SMSI ISO/IEC 27001:2022** pour les plateformes clients entrepr
 <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-clavigil.svg" width="52" alt="">
 
 ### [Clavigil](https://github.com/abedellah/Clavigil)
-`IAM` `Python` `Keycloak` `OpenLDAP`<br>
-**Gouvernance du cycle de vie des identités** : RH vers annuaire et IdP, six contrôles de réconciliation, séparation des tâches, recertification, CI complète.
+<sub>Identités et accès · Python · Keycloak · OpenLDAP</sub><br>
+**Gouvernance du cycle de vie des identités** : RH vers annuaire et fournisseur d'identité, six contrôles de réconciliation, séparation des tâches, recertification, intégration continue complète.
 
 </td>
 </tr>
@@ -97,8 +96,8 @@ Conception d'un **SMSI ISO/IEC 27001:2022** pour les plateformes clients entrepr
 <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-sentinel.svg" width="52" alt="">
 
 ### [SentinelAI](https://github.com/abedellah/SentinelAI)
-`Détection` `scikit-learn` `Flask`<br>
-**Détection d'intrusions** (RandomForest sur CICIDS2017) avec tableau de bord SOC et architecture SQL + MongoDB + Redis.
+<sub>Détection · scikit-learn · Flask</sub><br>
+**Détection d'intrusions** (RandomForest sur CICIDS2017) avec tableau de bord SOC et architecture SQL, MongoDB et Redis.
 
 </td>
 <td valign="top">
@@ -106,7 +105,7 @@ Conception d'un **SMSI ISO/IEC 27001:2022** pour les plateformes clients entrepr
 <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-microshield.svg" width="52" alt="">
 
 ### [SecureAI MicroShield](https://github.com/abedellah/Micro_SecureAi-)
-`DevSecOps` `Kubernetes`<br>
+<sub>DevSecOps · Kubernetes</sub><br>
 **Microservices sécurisés** : identité Zero-Trust, détection d'anomalies, observabilité, pipeline à quatre contrôles de sécurité. Projet d'équipe ; ma part : déploiement, supervision, pipeline.
 
 </td>
@@ -117,14 +116,12 @@ Conception d'un **SMSI ISO/IEC 27001:2022** pour les plateformes clients entrepr
 <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-filahia.svg" width="52" alt="">
 
 ### [Filahia](https://github.com/abedellah/Filahia)
-`Django` `scikit-learn` `OCR`<br>
+<sub>Django · scikit-learn · OCR</sub><br>
 Application web de **recommandation de cultures** à partir de données de sol et de climat, avec saisie par OCR, en français et en arabe.
 
 </td>
 </tr>
 </table>
-
----
 
 ## Parcours
 
@@ -137,19 +134,13 @@ Application web de **recommandation de cultures** à partir de données de sol e
 
 ## Certifications
 
-- **ISO/IEC 27001:2022 Information Security Associate** (SkillFront, 2026)
-- **Google Cybersecurity Professional Certificate** (Coursera, 2026)
+- **ISO/IEC 27001:2022 Information Security Associate**, SkillFront, 2026
+- **Google Cybersecurity Professional Certificate**, Coursera, 2026
 - **Microsoft SC-900**, Security, Compliance and Identity Fundamentals (en préparation)
-
-## Outils
-
-`Python` `SQL` `Bash` `PowerShell` `Docker` `Git` `GitHub Actions` `Linux` `Windows Server` `GNS3`
-
-**Langues** : arabe (langue maternelle) · français (maîtrise professionnelle) · anglais (courant)
 
 ---
 
 <p align="center">
-  <b>Un échange, un stage, une question sur un projet ?</b><br>
-  <a href="mailto:mohamedabdellahlagrini@gmail.com">Écrivez-moi</a> ou retrouvez-moi sur <a href="https://linkedin.com/in/mohamed-abdellah-lagrini">LinkedIn</a>.
+  Pour un échange, un stage ou une question sur l'un de ces travaux :<br>
+  <a href="mailto:mohamedabdellahlagrini@gmail.com">mohamedabdellahlagrini@gmail.com</a> · <a href="https://linkedin.com/in/mohamed-abdellah-lagrini">LinkedIn</a>
 </p>
