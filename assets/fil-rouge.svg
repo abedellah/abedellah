@@ -1,18 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Fil rouge : gouvernance, risques, contrôles, preuves, avec amélioration continue, et les projets associés à chaque étape">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#08172E"/>
-      <stop offset="1" stop-color="#16407A"/>
+      <stop offset="0" stop-color="#101A2A"/>
+      <stop offset="1" stop-color="#1F3350"/>
     </linearGradient>
     <linearGradient id="accent" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
-      <stop offset="0" stop-color="#2DD4BF"/>
-      <stop offset="1" stop-color="#60A5FA"/>
+      <stop offset="0" stop-color="#78AFAA"/>
+      <stop offset="1" stop-color="#8FA8C8"/>
     </linearGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
       <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.05"/>
     </pattern>
     <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto">
-      <path d="M0 0 L10 5 L0 10 z" fill="#2DD4BF"/>
+      <path d="M0 0 L10 5 L0 10 z" fill="#78AFAA"/>
     </marker>
     <clipPath id="frame"><rect width="1200" height="440" rx="18"/></clipPath>
   </defs>
@@ -32,12 +32,12 @@
     <path d="M1050 356 C1050 412 150 412 150 356" fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-dasharray="7 7" marker-end="url(#arrow)">
       <animate attributeName="stroke-dashoffset" from="0" to="14" dur="1.6s" repeatCount="indefinite"/>
     </path>
-    <text x="600" y="384" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#9FB6D9" letter-spacing="1.5">AMÉLIORATION CONTINUE</text>
+    <text x="600" y="384" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#93A3B9" letter-spacing="1.5">AMÉLIORATION CONTINUE</text>
 
     <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" text-anchor="middle">
 
       <!-- 01 Gouvernance -->
-      <text x="150" y="30" font-size="13" fill="#7FA6D9" letter-spacing="3">01</text>
+      <text x="150" y="30" font-size="13" fill="#8497B2" letter-spacing="3">01</text>
       <circle cx="150" cy="100" r="48" fill="#FFFFFF" fill-opacity="0.06" stroke="url(#accent)" stroke-width="2.5">
         <animate attributeName="stroke-opacity" values="1;0.5;1" dur="4s" repeatCount="indefinite"/>
       </circle>
@@ -47,28 +47,28 @@
         <line x1="122" y1="124" x2="178" y2="124"/>
       </g>
       <text x="150" y="190" font-size="22" font-weight="700" fill="#FFFFFF">Gouvernance</text>
-      <text x="150" y="214" font-size="15" fill="#B8C7E0">ISO 27001 · NIST CSF</text>
-      <rect x="35" y="236" width="230" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.09" stroke="url(#accent)" stroke-opacity="0.8"/>
-      <text x="150" y="256" font-size="14" fill="#E6EEFA">isms-iso27001-orange-study</text>
+      <text x="150" y="214" font-size="15" fill="#A8B5C7">ISO 27001 · NIST CSF</text>
+      <rect x="35" y="236" width="230" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.055" stroke="url(#accent)" stroke-opacity="0.5"/>
+      <text x="150" y="256" font-size="14" fill="#DCE3EC">isms-iso27001-orange-study</text>
 
       <!-- 02 Risques -->
-      <text x="450" y="30" font-size="13" fill="#7FA6D9" letter-spacing="3">02</text>
+      <text x="450" y="30" font-size="13" fill="#8497B2" letter-spacing="3">02</text>
       <circle cx="450" cy="100" r="48" fill="#FFFFFF" fill-opacity="0.06" stroke="url(#accent)" stroke-width="2.5">
         <animate attributeName="stroke-opacity" values="1;0.5;1" dur="4s" begin="1s" repeatCount="indefinite"/>
       </circle>
       <g>
-        <rect x="423" y="73" width="16" height="16" rx="3" fill="#FBBF24"/><rect x="442" y="73" width="16" height="16" rx="3" fill="#FB923C"/><rect x="461" y="73" width="16" height="16" rx="3" fill="#F87171"/>
-        <rect x="423" y="92" width="16" height="16" rx="3" fill="#34D399"/><rect x="442" y="92" width="16" height="16" rx="3" fill="#FBBF24"/><rect x="461" y="92" width="16" height="16" rx="3" fill="#FB923C"/>
-        <rect x="423" y="111" width="16" height="16" rx="3" fill="#34D399"/><rect x="442" y="111" width="16" height="16" rx="3" fill="#34D399"/><rect x="461" y="111" width="16" height="16" rx="3" fill="#FBBF24"/>
+        <rect x="423" y="73" width="16" height="16" rx="3" fill="#C7A860"/><rect x="442" y="73" width="16" height="16" rx="3" fill="#C58A5C"/><rect x="461" y="73" width="16" height="16" rx="3" fill="#BE6B66"/>
+        <rect x="423" y="92" width="16" height="16" rx="3" fill="#6FA48A"/><rect x="442" y="92" width="16" height="16" rx="3" fill="#C7A860"/><rect x="461" y="92" width="16" height="16" rx="3" fill="#C58A5C"/>
+        <rect x="423" y="111" width="16" height="16" rx="3" fill="#6FA48A"/><rect x="442" y="111" width="16" height="16" rx="3" fill="#6FA48A"/><rect x="461" y="111" width="16" height="16" rx="3" fill="#C7A860"/>
         <circle cx="469" cy="81" r="4" fill="#FFFFFF"/>
       </g>
       <text x="450" y="190" font-size="22" font-weight="700" fill="#FFFFFF">Risques</text>
-      <text x="450" y="214" font-size="15" fill="#B8C7E0">scénarios · EBIOS RM</text>
-      <rect x="335" y="236" width="230" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.09" stroke="url(#accent)" stroke-opacity="0.8"/>
-      <text x="450" y="256" font-size="14" fill="#E6EEFA">isms-iso27001-orange-study</text>
+      <text x="450" y="214" font-size="15" fill="#A8B5C7">scénarios · EBIOS RM</text>
+      <rect x="335" y="236" width="230" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.055" stroke="url(#accent)" stroke-opacity="0.5"/>
+      <text x="450" y="256" font-size="14" fill="#DCE3EC">isms-iso27001-orange-study</text>
 
       <!-- 03 Contrôles -->
-      <text x="750" y="30" font-size="13" fill="#7FA6D9" letter-spacing="3">03</text>
+      <text x="750" y="30" font-size="13" fill="#8497B2" letter-spacing="3">03</text>
       <circle cx="750" cy="100" r="48" fill="#FFFFFF" fill-opacity="0.06" stroke="url(#accent)" stroke-width="2.5">
         <animate attributeName="stroke-opacity" values="1;0.5;1" dur="4s" begin="2s" repeatCount="indefinite"/>
       </circle>
@@ -77,33 +77,33 @@
         <path d="M739 102 L747 110 L762 92"/>
       </g>
       <text x="750" y="190" font-size="22" font-weight="700" fill="#FFFFFF">Contrôles</text>
-      <text x="750" y="214" font-size="15" fill="#B8C7E0">IAM · DevSecOps · réseau</text>
-      <rect x="695" y="236" width="110" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.09" stroke="url(#accent)" stroke-opacity="0.8"/>
-      <text x="750" y="256" font-size="14" fill="#E6EEFA">Clavigil</text>
-      <rect x="658" y="272" width="184" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.09" stroke="url(#accent)" stroke-opacity="0.8"/>
-      <text x="750" y="292" font-size="14" fill="#E6EEFA">SecureAI MicroShield</text>
-      <rect x="692" y="308" width="116" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.09" stroke="url(#accent)" stroke-opacity="0.8"/>
-      <text x="750" y="328" font-size="14" fill="#E6EEFA">SentinelAI</text>
+      <text x="750" y="214" font-size="15" fill="#A8B5C7">IAM · DevSecOps · réseau</text>
+      <rect x="695" y="236" width="110" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.055" stroke="url(#accent)" stroke-opacity="0.5"/>
+      <text x="750" y="256" font-size="14" fill="#DCE3EC">Clavigil</text>
+      <rect x="658" y="272" width="184" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.055" stroke="url(#accent)" stroke-opacity="0.5"/>
+      <text x="750" y="292" font-size="14" fill="#DCE3EC">SecureAI MicroShield</text>
+      <rect x="692" y="308" width="116" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.055" stroke="url(#accent)" stroke-opacity="0.5"/>
+      <text x="750" y="328" font-size="14" fill="#DCE3EC">SentinelAI</text>
 
       <!-- 04 Preuves -->
-      <text x="1050" y="30" font-size="13" fill="#7FA6D9" letter-spacing="3">04</text>
+      <text x="1050" y="30" font-size="13" fill="#8497B2" letter-spacing="3">04</text>
       <circle cx="1050" cy="100" r="48" fill="#FFFFFF" fill-opacity="0.06" stroke="url(#accent)" stroke-width="2.5">
         <animate attributeName="stroke-opacity" values="1;0.5;1" dur="4s" begin="3s" repeatCount="indefinite"/>
       </circle>
       <g stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none">
         <rect x="1032" y="74" width="36" height="50" rx="5"/>
       </g>
-      <g stroke="#7FA6D9" stroke-width="3" stroke-linecap="round">
+      <g stroke="#8497B2" stroke-width="3" stroke-linecap="round">
         <line x1="1040" y1="88" x2="1060" y2="88"/><line x1="1040" y1="98" x2="1060" y2="98"/><line x1="1040" y1="108" x2="1052" y2="108"/>
       </g>
-      <circle cx="1066" cy="119" r="12" fill="#2DD4BF"/>
-      <path d="M1060 119 L1064.5 123.5 L1072 113.5" fill="none" stroke="#08172E" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="1066" cy="119" r="12" fill="#78AFAA"/>
+      <path d="M1060 119 L1064.5 123.5 L1072 113.5" fill="none" stroke="#101A2A" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
       <text x="1050" y="190" font-size="22" font-weight="700" fill="#FFFFFF">Preuves</text>
-      <text x="1050" y="214" font-size="15" fill="#B8C7E0">tests · CI · rapports</text>
-      <rect x="951" y="236" width="198" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.09" stroke="url(#accent)" stroke-opacity="0.8"/>
-      <text x="1050" y="256" font-size="14" fill="#E6EEFA">Clavigil : CI et tests</text>
-      <rect x="943" y="272" width="214" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.09" stroke="url(#accent)" stroke-opacity="0.8"/>
-      <text x="1050" y="292" font-size="14" fill="#E6EEFA">Étude ISMS : indicateurs</text>
+      <text x="1050" y="214" font-size="15" fill="#A8B5C7">tests · CI · rapports</text>
+      <rect x="951" y="236" width="198" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.055" stroke="url(#accent)" stroke-opacity="0.5"/>
+      <text x="1050" y="256" font-size="14" fill="#DCE3EC">Clavigil : CI et tests</text>
+      <rect x="943" y="272" width="214" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.055" stroke="url(#accent)" stroke-opacity="0.5"/>
+      <text x="1050" y="292" font-size="14" fill="#DCE3EC">Étude ISMS : indicateurs</text>
     </g>
   </g>
 </svg>
