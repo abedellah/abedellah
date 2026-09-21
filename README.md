@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/banner.svg?v=3" alt="Mohamed Abdellah Lagrini, cybersécurité, GRC, IAM, DevSecOps" width="100%">
+  <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/banner.svg?v=4" alt="Mohamed Abdellah Lagrini, cybersécurité, GRC, IAM, DevSecOps" width="100%">
 </div>
 
 <p align="center">
@@ -30,7 +30,7 @@ isms-iso27001-orange-study/   Clavigil/   SentinelAI/   Micro_SecureAi-/   Filah
 Je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** et s'**automatise**.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/fil-rouge.svg?v=3" alt="Fil rouge : gouvernance, risques, contrôles, preuves, amélioration continue, avec les projets associés à chaque étape" width="100%">
+  <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/fil-rouge.svg?v=4" alt="Fil rouge : gouvernance, risques, contrôles, preuves, amélioration continue, avec les projets associés à chaque étape" width="100%">
 </div>
 
 <br>
@@ -74,7 +74,7 @@ Je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** e
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-isms.svg?v=3" width="52" alt="">
+<img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-isms.svg?v=4" width="52" alt="">
 
 ### [isms-iso27001-orange-study](https://github.com/abedellah/isms-iso27001-orange-study)
 `GRC` `ISO 27001` `EBIOS RM`<br>
@@ -83,7 +83,7 @@ Conception d'un **SMSI ISO/IEC 27001:2022** pour les plateformes clients entrepr
 </td>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-clavigil.svg?v=3" width="52" alt="">
+<img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-clavigil.svg?v=4" width="52" alt="">
 
 ### [Clavigil](https://github.com/abedellah/Clavigil)
 `IAM` `Python` `Keycloak` `OpenLDAP`<br>
@@ -94,7 +94,7 @@ Conception d'un **SMSI ISO/IEC 27001:2022** pour les plateformes clients entrepr
 <tr>
 <td valign="top">
 
-<img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-sentinel.svg?v=3" width="52" alt="">
+<img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-sentinel.svg?v=4" width="52" alt="">
 
 ### [SentinelAI](https://github.com/abedellah/SentinelAI)
 `Détection` `scikit-learn` `Flask`<br>
@@ -103,7 +103,7 @@ Conception d'un **SMSI ISO/IEC 27001:2022** pour les plateformes clients entrepr
 </td>
 <td valign="top">
 
-<img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-microshield.svg?v=3" width="52" alt="">
+<img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-microshield.svg?v=4" width="52" alt="">
 
 ### [SecureAI MicroShield](https://github.com/abedellah/Micro_SecureAi-)
 `DevSecOps` `Kubernetes`<br>
@@ -114,7 +114,7 @@ Conception d'un **SMSI ISO/IEC 27001:2022** pour les plateformes clients entrepr
 <tr>
 <td colspan="2" valign="top">
 
-<img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-filahia.svg?v=3" width="52" alt="">
+<img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-filahia.svg?v=4" width="52" alt="">
 
 ### [Filahia](https://github.com/abedellah/Filahia)
 `Django` `scikit-learn` `OCR`<br>
