@@ -78,7 +78,7 @@ Je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** e
 
 ### [smsi-iso27001-ebios-rm](https://github.com/abedellah/smsi-iso27001-ebios-rm)
 `GRC` `ISO 27001` `EBIOS RM`<br>
-**SMSI ISO/IEC 27001:2022 bâti sur le cas de référence de l'ANSSI** (biotechnologie fictive) : les cinq ateliers EBIOS RM complétés, déclaration d'applicabilité des 93 mesures, audit interne, six constats sur le cas de référence, cohérence vérifiée par script et CI.
+**SMSI ISO/IEC 27001:2022 pour CelerPay**, un établissement de paiement fictif : les cinq ateliers EBIOS RM, déclaration d'applicabilité des 93 mesures (calculée), audit interne, revue de direction, feuille de route sur 18 mois.
 
 </td>
 <td width="50%" valign="top">
