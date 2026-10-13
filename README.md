@@ -141,7 +141,6 @@ Je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** e
 
 - **ISO/IEC 27001:2022 Information Security Associate** (SkillFront, 2026)
 - **Google Cybersecurity Professional Certificate** (Coursera, 2026)
-- **Microsoft SC-900**, Security, Compliance and Identity Fundamentals (en préparation)
 
 ## Outils
 
