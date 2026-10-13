@@ -7,7 +7,7 @@
   &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/mohamed-abdellah-lagrini"><b>LinkedIn</b></a>
   &nbsp;·&nbsp;
-  Rabat, Maroc
+  Salé, Maroc
 </p>
 
 ```text
@@ -15,10 +15,10 @@ $ whoami
 mohamed-abdellah-lagrini        # élève ingénieur, cybersécurité & infrastructures réseaux
 
 $ cat objectif.txt
-stage PFE · GRC / Audit IT / Cyber Risk · à partir de février 2027 · Maroc ou France
+stage PFE · GRC / Audit IT / Cyber Risk · à partir de février 2027 · France ou Maroc
 
 $ ls projets/
-smsi-iso27001-ebios-rm/   Clavigil/   SentinelAI/   Micro_SecureAi-/   Filahia/
+smsi-iso27001-ebios-rm/   Riskarium/   Clavigil/   SentinelAI/   Micro_SecureAi-/   Filahia/
 ```
 
 <sub>*English: final-year cybersecurity engineering student in Rabat, looking for a 2027 end-of-studies internship in GRC, IT audit or cyber risk.*</sub>
@@ -30,7 +30,7 @@ smsi-iso27001-ebios-rm/   Clavigil/   SentinelAI/   Micro_SecureAi-/   Filahia/
 Je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** et s'**automatise**.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abedellah/abedellah/2f35ee6a58f08dfbf54eb3286481a140fb2cf258/assets/fil-rouge.svg" alt="Cycle de vie de la sécurité : gouvernance, risques, contrôles, preuves, amélioration continue, avec les projets associés à chaque étape" width="100%">
+  <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/fil-rouge.svg?v=5" alt="Cycle de vie de la sécurité : gouvernance, risques, contrôles, preuves, amélioration continue, avec les projets associés à chaque étape" width="100%">
 </div>
 
 <br>
@@ -83,6 +83,17 @@ Je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** e
 </td>
 <td width="50%" valign="top">
 
+<img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-riskarium.svg?v=5" width="52" alt="">
+
+### [Riskarium](https://github.com/abedellah/Riskarium)
+`GRC` `ISO 27001` `NIST CSF 2.0`<br>
+**Générateur de registre des risques** : analyses YAML vers rapports, heatmap de criticité et mapping ISO/IEC 27001 + NIST CSF 2.0, avec feuille de route de traitement. Étude de cas sourcée sur la sanction CNIL Free/Free Mobile (janvier 2026). ~50 tests, CI complète.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-clavigil.svg?v=5" width="52" alt="">
 
 ### [Clavigil](https://github.com/abedellah/Clavigil)
@@ -90,8 +101,6 @@ Je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** e
 **Gouvernance du cycle de vie des identités** : RH vers annuaire et IdP, six contrôles de réconciliation, séparation des tâches, recertification, CI complète.
 
 </td>
-</tr>
-<tr>
 <td valign="top">
 
 <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-sentinel.svg?v=5" width="52" alt="">
@@ -101,7 +110,9 @@ Je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** e
 **Détection d'intrusions** (RandomForest sur CICIDS2017) avec tableau de bord SOC et architecture SQL + MongoDB + Redis.
 
 </td>
-<td valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-microshield.svg?v=5" width="52" alt="">
 
@@ -111,18 +122,9 @@ Je m'intéresse à la façon dont la sécurité se **gouverne**, se **prouve** e
 
 </td>
 </tr>
-<tr>
-<td colspan="2" valign="top">
-
-<img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/icon-filahia.svg?v=5" width="52" alt="">
-
-### [Filahia](https://github.com/abedellah/Filahia)
-`Django` `scikit-learn` `OCR`<br>
-Application web de **recommandation de cultures** à partir de données de sol et de climat, avec saisie par OCR, en français et en arabe.
-
-</td>
-</tr>
 </table>
+
+<sub>Également sur mon profil : [Filahia](https://github.com/abedellah/Filahia), une application de recommandation agricole (Django, scikit-learn, OCR) — hors cybersécurité, gardée pour montrer la polyvalence.</sub>
 
 ---
 

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Riskarium">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14171C"/><stop offset="1" stop-color="#272C34"/></linearGradient>
+    <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="64" y2="64"><stop offset="0" stop-color="#B5C6DE"/><stop offset="1" stop-color="#8CA0BF"/></linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#bg)"/>
+  <g>
+    <rect x="14" y="14" width="11" height="11" rx="2" fill="url(#a)" fill-opacity="0.25"/>
+    <rect x="27" y="14" width="11" height="11" rx="2" fill="url(#a)" fill-opacity="0.45"/>
+    <rect x="40" y="14" width="11" height="11" rx="2" fill="url(#a)" fill-opacity="0.65"/>
+    <rect x="14" y="27" width="11" height="11" rx="2" fill="url(#a)" fill-opacity="0.45"/>
+    <rect x="27" y="27" width="11" height="11" rx="2" fill="url(#a)" fill-opacity="0.65"/>
+    <rect x="40" y="27" width="11" height="11" rx="2" fill="url(#a)" fill-opacity="0.85"/>
+    <rect x="14" y="40" width="11" height="11" rx="2" fill="url(#a)" fill-opacity="0.65"/>
+    <rect x="27" y="40" width="11" height="11" rx="2" fill="url(#a)" fill-opacity="0.85"/>
+    <rect x="40" y="40" width="11" height="11" rx="2" fill="url(#a)" fill-opacity="1"/>
+  </g>
+</svg>
