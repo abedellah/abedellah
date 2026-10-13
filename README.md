@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/banner.svg?v=5" alt="Mohamed Abdellah Lagrini, cybersécurité, GRC, IAM, DevSecOps" width="100%">
+  <img src="https://raw.githubusercontent.com/abedellah/abedellah/main/assets/banner.svg?v=6" alt="Mohamed Abdellah Lagrini, GRC, IAM, Réseaux, DevSecOps" width="100%">
 </div>
 
 <p align="center">
